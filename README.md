@@ -9,5 +9,6 @@ To find the shortest path between the Start and Target while avoiding obstacles 
 - map.txt, .txt file containing the map
 - Guide.pdf, guidebook for those who want to learn about A* Search and code from scratch (I did it this way!)
 
-Results:
+## Results:
+
 ![image](https://github.com/s7eady/AStar-PathSearch/assets/152954536/275b0ba8-4d14-46ee-8866-83ef3a021581)
